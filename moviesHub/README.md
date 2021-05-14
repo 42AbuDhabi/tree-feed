@@ -17,10 +17,6 @@ HYPERTUBE is a plateform for video streaming.
 
 ## Team
 - Abnaceur **contact@naceur-abdeljalil.com** 
-- akhoucha akhoucha@student.42.fr
-- gucalvi gucalvi@student.42.fr
-- mbengtss mbengtss@student.42.fr
-- yiwang yiwang@student.42.fr
 
 ## Project's Goals and objectives
 
