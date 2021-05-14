@@ -14,11 +14,6 @@
 
 <img src="./documents/demo-foosball.gif" width="600">
 
-<p>This is a techniacal challenge assignment for a position at </p>
-<p><a href="https://www.audacia.co/"> Audacia </a>
-Assignment details <a href="./documents/table-football-challenge.pdf">here</a>
-</p>
-
 ### Features
 * API documentation after starting the project visit : http://localhost:3000/docs/#/ (Just some documentation for the sake of this assigment).
 * HomePage : - Shows simple data like number of match played / players added.
